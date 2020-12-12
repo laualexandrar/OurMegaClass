@@ -53,6 +53,12 @@ fun learningWithNumbers() {
         println("You are right. Pusheen is gray and is not a dog!!")
     }
 
+    if (!learningIfWithMethods()) {
+        println("Nooooo")
+    }
+
+
+
 }
 
 fun learningIfWithMethods(): Boolean {
