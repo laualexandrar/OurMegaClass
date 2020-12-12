@@ -41,7 +41,16 @@ fun learningWithNumbers() {
     }
 
     if(!learningIfWithMethods()){
-        println("")
+        println("print this is false")
+    } else {
+        println("This is true")
+    }
+
+    val isPusheenGray = true
+    val isPusheenaDog = false
+
+    if (isPusheenGray && !isPusheenaDog) {
+        println("You are right. Pusheen is gray and is not a dog!!")
     }
 
 }

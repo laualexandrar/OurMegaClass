@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593d77db-5770-444f-b925-5d37099bdf58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraPractice/PracticingIfAndElse.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/Programming101Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/Programming101Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/TestDriveKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/TestDriveKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extraPractice/PracticingIfAndElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraPractice/PracticingIfAndElse.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
