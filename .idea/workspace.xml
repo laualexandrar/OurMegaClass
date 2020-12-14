@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593d77db-5770-444f-b925-5d37099bdf58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming101For.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extraPractice/PracticingWithForsAndWhiles.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/Programming101Kt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extraPractice/PracticingIfAndElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraPractice/PracticingIfAndElse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programming101.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programming101If.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +30,7 @@
   <component name="ProjectId" id="1lUqooxqE5QHrL84471TEQQ4WHu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -39,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.extraPractice.PracticingIfAndElseKt">
+  <component name="RunManager" selected="Kotlin.extraPractice.PracticingWithForsAndWhilesKt">
     <configuration name="AnotherTestDriveKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
@@ -53,27 +59,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programming101Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Programming101ForKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Programming101Kt" />
+      <option name="MAIN_CLASS_NAME" value="Programming101ForKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDriveKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Programming101IfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestDriveKt" />
+      <option name="MAIN_CLASS_NAME" value="Programming101IfKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,12 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="extraPractice.PracticingWithForsAndWhilesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OurMegaClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="extraPractice.PracticingWithForsAndWhilesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.extraPractice.PracticingWithForsAndWhilesKt" />
+        <item itemvalue="Kotlin.Programming101ForKt" />
         <item itemvalue="Kotlin.extraPractice.PracticingIfAndElseKt" />
-        <item itemvalue="Kotlin.Programming101Kt" />
+        <item itemvalue="Kotlin.Programming101IfKt" />
         <item itemvalue="Kotlin.AnotherTestDriveKt" />
-        <item itemvalue="Kotlin.TestDriveKt" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +139,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
