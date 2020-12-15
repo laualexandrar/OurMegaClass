@@ -14,6 +14,8 @@ fun normalFor() {
 
     for (i: Int in 1..4) {
         forQuemado()
+
+        print(i)
     }
 
     val arreglito = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9)
@@ -41,11 +43,18 @@ fun normalFor() {
         println(j)
         j--
     } while (j > 0)
+        println()
 
-    println()
+
+
     var w = 0
     while (w <= 5) {
         print("${++w} ")
+    }
+
+    var r = 0
+    while (r <= 5) {
+        print("${r++} ")
     }
 }
 

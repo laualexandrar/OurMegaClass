@@ -1,16 +1,22 @@
 package extraPractice
 
 fun main() {
-    val mArray = arrayOf(4, 12, 89)
+    val mArray = arrayOf(40, 120, 89)
 
-    var maxVal = 0
-    var i = 0
+//    val maxVal = mArray.max()
+//    print(maxVal)
+
+    var maxVal = -1
 
     for (number in mArray) {
-        if (number > mArray[i + 1]) {
+        if (number > maxVal) {
             maxVal = number
-            i++
         }
-        println(maxVal)
     }
+
+    println(maxVal)
+
 }
+
+
+

@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593d77db-5770-444f-b925-5d37099bdf58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programming101For.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extraPractice/PracticingWithForsAndWhiles.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/Programming101Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingIfAndElseKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programming101.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programming101If.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/Programming101ForKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/Programming101ForKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingWithForsAndWhilesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/PracticingWithForsAndWhilesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programming101For.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programming101For.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extraPractice/PracticingWithForsAndWhiles.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraPractice/PracticingWithForsAndWhiles.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OurMegaClass" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.extraPractice.PracticingWithForsAndWhilesKt">
+  <component name="RunManager" selected="Kotlin.Programming101ForKt">
     <configuration name="AnotherTestDriveKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
@@ -113,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.extraPractice.PracticingWithForsAndWhilesKt" />
         <item itemvalue="Kotlin.Programming101ForKt" />
+        <item itemvalue="Kotlin.extraPractice.PracticingWithForsAndWhilesKt" />
         <item itemvalue="Kotlin.extraPractice.PracticingIfAndElseKt" />
         <item itemvalue="Kotlin.Programming101IfKt" />
         <item itemvalue="Kotlin.AnotherTestDriveKt" />
