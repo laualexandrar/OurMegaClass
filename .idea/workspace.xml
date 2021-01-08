@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593d77db-5770-444f-b925-5d37099bdf58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/extraPractice/PracticingBooleanAlgebra.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/CrazyNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/CrazyNumberKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/extraPractice/CrazyNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraPractice/CrazyNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extraPractice/MyForPractice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraPractice/MyForPractice.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.extraPractice.MyForPracticeKt">
+  <component name="RunManager" selected="Kotlin.extraPractice.CrazyNumberKt">
     <configuration name="Programming101ForKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
@@ -97,14 +98,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="extraPractice.PracticingWithForsAndWhilesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="extraPractice.PracticingBooleanAlgebraKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="extraPractice.PracticingWithForsAndWhilesKt" />
+      <option name="MAIN_CLASS_NAME" value="extraPractice.PracticingBooleanAlgebraKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.extraPractice.MyForPracticeKt" />
         <item itemvalue="Kotlin.extraPractice.CrazyNumberKt" />
+        <item itemvalue="Kotlin.extraPractice.PracticingBooleanAlgebraKt" />
+        <item itemvalue="Kotlin.extraPractice.MyForPracticeKt" />
         <item itemvalue="Kotlin.extraPractice.OddAndEvenNumbersKt" />
         <item itemvalue="Kotlin.Programming101ForKt" />
-        <item itemvalue="Kotlin.extraPractice.PracticingWithForsAndWhilesKt" />
       </list>
     </recent_temporary>
   </component>

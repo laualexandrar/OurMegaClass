@@ -5,16 +5,16 @@ fun main() {
 }
 
 fun sumDigitNumbers(input: Int):Int{
-
     var sum = 0
     var number = input
 
-    while(number >= 1) {
-        val quotient = number / 10
+    while(number >= 1){
+       val quotient = number / 10
         val reminder = number % 10
-        sum = sum + reminder
+         sum = reminder + sum
         number = quotient
     }
+
     return sum
 
 }
