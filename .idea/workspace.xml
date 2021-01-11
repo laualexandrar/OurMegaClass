@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593d77db-5770-444f-b925-5d37099bdf58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extraPractice/PracticingBooleanAlgebra.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/PorPruebasNadaMas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/classes/MyFirstClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/inheritance/Concepts.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/META-INF/OurMegaClass.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/CrazyNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OurMegaClass/extraPractice/CrazyNumberKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extraPractice/CrazyNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/extraPractice/CrazyNumber.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,16 +46,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.extraPractice.CrazyNumberKt">
-    <configuration name="Programming101ForKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.poo.inheritance.ConceptsKt">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.Launcher" />
       <module name="OurMegaClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Programming101ForKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,19 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="extraPractice.OddAndEvenNumbersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="OurMegaClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="extraPractice.OddAndEvenNumbersKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="extraPractice.PracticingBooleanAlgebraKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="OurMegaClass" />
       <option name="VM_PARAMETERS" />
@@ -111,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="poo.inheritance.ConceptsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="OurMegaClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="poo.inheritance.ConceptsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.poo.inheritance.ConceptsKt" />
+        <item itemvalue="Application.Launcher" />
         <item itemvalue="Kotlin.extraPractice.CrazyNumberKt" />
         <item itemvalue="Kotlin.extraPractice.PracticingBooleanAlgebraKt" />
         <item itemvalue="Kotlin.extraPractice.MyForPracticeKt" />
-        <item itemvalue="Kotlin.extraPractice.OddAndEvenNumbersKt" />
-        <item itemvalue="Kotlin.Programming101ForKt" />
       </list>
     </recent_temporary>
   </component>
